@@ -22,10 +22,10 @@
   *  curl 'localhost:7070/student/all' .... (look into controller for more endpoints)
   
 
-## Infra Code (courtesy of medium.com) Curtsy:
+## Infra Code (courtesy - author of above page from medium.com) Curtsy:
 
    * https://medium.com/@I_M_Harsh/build-and-deploy-using-jenkins-packer-and-terraform-40b2aafedaec
 
-   For this POC, I took reference from above link from medium.com. Pls refer this webpage for more detail information.
+   For this POC, I took reference from above link from medium.com. Pls refer this webpage for more detailed information.
    
 For any question/comment or issues pls write me - <raja khan> getrk@yahoo.com
